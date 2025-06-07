@@ -27,13 +27,6 @@ A **real-time gesture-based virtual keyboard** using hand detection with OpenCV 
 
 ---
 
-## 📸 Demo
-
-> Press keys by pinching your index and middle finger.
-
-https://user-images.githubusercontent.com/your-video-demo.mp4 <!-- Replace with actual demo if available -->
-
----
 
 ## 🚀 Installation
 
