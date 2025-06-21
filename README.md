@@ -30,7 +30,7 @@ A **real-time gesture-based virtual keyboard** using hand detection with OpenCV 
 
 ## 🚀 Installation
 
-```bash
+
 # Clone the repository
 git clone https://github.com/yourusername/gesture-controlled-keyboard.git
 cd gesture-controlled-keyboard
@@ -38,9 +38,10 @@ cd gesture-controlled-keyboard
 # Install required packages
 pip install -r requirements.txt
 
-------------------------------------------------------------------------------------------------------------------------------
+---
 
-🧠 How It Works
+# 🧠 How It Works
+
 Uses your webcam to detect hand landmarks.
 
 Tracks fingertip positions to determine key selection.
@@ -53,30 +54,37 @@ Text typed is displayed on screen in real-time.
 
 Press Enter to save the text to typed_text.txt.
 
-------------------------------------------------------------------------------------------------------------------------------
-📂 Folder Structure
+---
+### 📂 Folder Structure
 
 gesture-controlled-keyboard/
+
 │
+
 ├── main.py                # Main gesture keyboard script
+
 ├── typed_text.txt         # Output file for saved text
+
 ├── README.md              # Project documentation
+
 ├── requirements.txt       # Python dependencies
 
-------------------------------------------------------------------------------------------------------------------------------
+---
 
-🧠 Future Scope
-🔄 Add gesture training via ML model
+# 🧠 Future Scope
 
-🌐 Toggle between English/Hindi typing
+#🔄 Add gesture training via ML model
 
-📱 Convert to mobile/AR version
+#🌐 Toggle between English/Hindi typing
 
-🗣️ Add voice-to-text integration
+#📱 Convert to mobile/AR version
 
-------------------------------------------------------------------------------------------------------------------------------
+#🗣️ Add voice-to-text integration
 
-🙋‍♂️ Author
+---
+
+# 🙋‍♂️ Author
+
 Vijay Kumar Saini
 
 🧑‍💻 Developer | Maker | Tech Explorer
@@ -85,11 +93,12 @@ Vijay Kumar Saini
 
 💡 Interested in HCI, AI, and gesture-based interfaces
 
-⭐ Contribute / Feedback
+# ⭐ Contribute / Feedback 
+
 If you like this project, give it a ⭐!
 Feel free to open issues, suggest improvements, or submit pull requests.
 
-📄 License
+# 📄 License
 This project is licensed under the MIT License.
 See the LICENSE file for more details.
 
